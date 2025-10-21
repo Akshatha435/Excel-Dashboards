@@ -1,8 +1,9 @@
 # 🟢 Blinkit Sales Performance Dashboard
 
 <p align="center">
-  <img src="images/blinkit_dashboard.png" alt="Blinkit Excel Dashboard" width="1000" />
+  <img src="images/blinkit_dashboard.png" alt="Blinkit Dashboard" width="1000" />
 </p>
+
 
 ---
 
