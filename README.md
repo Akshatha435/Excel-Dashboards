@@ -56,7 +56,7 @@ This project demonstrates how **data storytelling** and **Excel analytics** can 
 
 ## 📸 Dashboard Preview (Visible Below 👇)
 <p align="center">
-  <img src="images/blinkit_dashboard.png" alt="Blinkit Dashboard Full View" width="1000" />
+  <img src="blinkit_dashboard.png" alt="Blinkit Dashboard Full View" width="1000" />
 </p>
 
 ---
