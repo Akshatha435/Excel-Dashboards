@@ -75,7 +75,7 @@ This project demonstrates how **data storytelling** and **Excel analytics** can 
 ## 👩‍💻 Author  
 **Akshatha Reddy**  
 📍 Data Analytics Enthusiast | Excel | Power BI | SQL | Python (Beginner)  
-🌐 [GitHub](https://github.com/Akshatha35)  
+🌐 [GitHub](https://github.com/Akshatha435)  
 💼 [LinkedIn](https://linkedin.com/in/YourLinkedInProfile)
 
 ---
