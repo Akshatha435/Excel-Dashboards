@@ -1,11 +1,5 @@
 # 🟢 Blinkit Sales Performance Dashboard
 
-<p align="center">
-  <img src="blinkit_dashboard.png" alt="Blinkit Dashboard" width="1000" />
-</p>
-
-
----
 
 ## 📖 Project Overview  
 The **Blinkit Sales Performance Dashboard** is a fully interactive Excel dashboard designed to visualize and analyze Blinkit’s key business performance indicators (KPIs).  
