@@ -1,7 +1,7 @@
 # 🚗 Road Accident Analysis Dashboard  
 
 <p align="center">
-  <img src="Road Accident Dash board.png" alt="Road Accident Dashboard" width="900" />
+  <img src="road_accident_dashboard.png" alt="Road Accident Dashboard" width="900" />
 </p>
 
 ## 🧭 Project Overview  
