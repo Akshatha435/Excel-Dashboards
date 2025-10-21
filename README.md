@@ -4,8 +4,6 @@
   <img src=<p align="center">
   <img src="images/blinkit_dashboard.png" alt="Blinkit Dashboard" width="1000" />
 </p>
- alt="Blinkit Dashboard" width="1000" />
-</p>
 
 
 ---
