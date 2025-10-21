@@ -1,4 +1,4 @@
-z# 🟢 Blinkit Sales Performance Dashboard
+# 🟢 Blinkit Sales Performance Dashboard
 
 <p align="center">
   <img src=<p align="center">
