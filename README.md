@@ -1,35 +1,33 @@
 # 🟢 Blinkit Sales Performance Dashboard
 
 <p align="center">
-  <a href="images/blinkit_dashboard.png" target="_blank">
-    <img src="images/blinkit_dashboard.png" alt="Blinkit Dashboard Preview" width="900" />
-  </a>
+  <img src="images/blinkit_dashboard.png" alt="Blinkit Excel Dashboard" width="1000" />
 </p>
 
 ---
 
 ## 📖 Project Overview  
-The **Blinkit Sales Performance Dashboard** is an interactive Excel dashboard built to analyze Blinkit’s overall sales, outlet performance, and product category trends.  
-It provides a **complete business view** by using Excel tools like Power Query, Pivot Tables, Slicers, and advanced charts to convert raw data into clear insights.  
+The **Blinkit Sales Performance Dashboard** is a fully interactive Excel dashboard designed to visualize and analyze Blinkit’s key business performance indicators (KPIs).  
+It converts raw sales data into **clean, dynamic visuals** — highlighting performance by city, outlet type, and product category.
 
-This dashboard helps in identifying **top-performing outlets**, **category contributions**, and **customer satisfaction patterns** through data storytelling.
+This project demonstrates how **data storytelling** and **Excel analytics** can simplify decision-making for business growth.
 
 ---
 
 ## 🎯 Objectives  
-- Understand sales performance across different outlet types and cities.  
-- Analyze the impact of outlet size, location, and type on revenue.  
-- Identify key metrics such as **Total Sales**, **Average Rating**, and **Number of Items Sold**.  
-- Provide an interactive experience for decision-makers using slicers and dynamic visuals.
+- Analyze Blinkit’s sales performance across cities and outlet types.  
+- Identify top-performing product categories and their contributions to revenue.  
+- Measure outlet performance using KPIs like **Total Sales**, **Average Rating**, and **Item Count**.  
+- Build a professional, interactive dashboard layout using Excel visuals and slicers.
 
 ---
 
 ## 📊 Key Insights  
-🔹 **Top Cities:** Tier-1 cities show the highest order volume and revenue share.  
-🔹 **Product Categories:** Bakery, Beverages, and Dairy are top-performing segments.  
-🔹 **Outlet Type Performance:** Supermarket-type outlets outperform others in total sales and customer ratings.  
-🔹 **Average Rating:** Maintained consistently high across all outlets.  
-🔹 **Sales Trend:** Slight seasonality spikes during festive months (Q2 & Q4).  
+✅ **Top Cities:** Tier-1 cities show the highest revenue and order volume.  
+✅ **Outlet Type Analysis:** Supermarket outlets lead in total sales and customer satisfaction.  
+✅ **Product Category Insights:** Bakery, Dairy, and Beverages are the highest contributors.  
+✅ **Performance Trends:** Steady growth pattern with slight Q2 and Q4 peaks.  
+✅ **Overall Rating:** Consistent performance across outlets, indicating brand trust.  
 
 ---
 
@@ -37,32 +35,27 @@ This dashboard helps in identifying **top-performing outlets**, **category contr
 
 | Feature | Purpose |
 |----------|----------|
-| **Power Query** | Cleaned and transformed the raw Blinkit dataset |
-| **Pivot Tables** | Summarized large datasets for quick analysis |
-| **Slicers** | Added interactivity for city, outlet type, and category |
-| **Charts** | Visualized sales, category contributions, and KPIs |
-| **Conditional Formatting** | Highlighted high/low performers and trends |
-| **Dashboard Layout Design** | Used color consistency, spacing, and alignment for professional presentation |
+| **Power Query** | Data cleaning and transformation |
+| **Pivot Tables** | Summary metrics for KPIs |
+| **Slicers** | Filter data by city, category, outlet type |
+| **Charts (Column, Donut, Line)** | Visualize key performance trends |
+| **Conditional Formatting** | Highlight top and low performers |
+| **Custom Layout Design** | Professional dashboard formatting |
 
 ---
 
 ## 🧠 Skills Demonstrated  
 - Business KPI Analysis  
-- Dashboard Design & Layout  
-- Data Cleaning & Transformation  
-- Visualization & Storytelling in Excel  
-- Analytical Thinking & Insight Generation  
+- Data Cleaning and Transformation  
+- Dashboard Design (UI/UX)  
+- Visualization & Storytelling  
+- Excel Automation with Power Query  
 
 ---
 
-## 📸 Dashboard Preview  
-
-*(Click the image below to view it in full size)*  
-
+## 📸 Dashboard Preview (Visible Below 👇)
 <p align="center">
-  <a href="images/blinkit_dashboard.png" target="_blank">
-    <img src="images/blinkit_dashboard.png" alt="Blinkit Dashboard" width="900" />
-  </a>
+  <img src="images/blinkit_dashboard.png" alt="Blinkit Dashboard Full View" width="1000" />
 </p>
 
 ---
@@ -71,16 +64,16 @@ This dashboard helps in identifying **top-performing outlets**, **category contr
 - **File name:** `Blinkit Dashboard.xlsx`  
 - **Sheets included:**  
   - `BlinkIT Raw Data` → Original dataset  
-  - `Sheet Design` → Layout planning and color setup  
-  - `Dash_Board` → Final dashboard visuals  
+  - `Sheet Design` → Dashboard layout template  
+  - `Dash_Board` → Final interactive dashboard  
 
 ---
 
-## 🧾 How to View  
-1. Download the Excel file: `Blinkit Dashboard.xlsx`.  
-2. Open in **Microsoft Excel (version 2016 or later)**.  
-3. If prompted, click **Enable Content** to activate slicers and dynamic charts.  
-4. Explore the slicers and visuals to view performance by outlet or city.
+## 🧾 How to Use  
+1. Download `Blinkit Dashboard.xlsx`.  
+2. Open in **Microsoft Excel (2016 or later)**.  
+3. Click **Enable Content** if prompted.  
+4. Use slicers to explore performance by city, outlet type, and product category.
 
 ---
 
@@ -88,8 +81,8 @@ This dashboard helps in identifying **top-performing outlets**, **category contr
 **Akshatha Reddy**  
 📍 Data Analytics Enthusiast | Excel | Power BI | SQL | Python (Beginner)  
 🌐 [GitHub](https://github.com/Akshatha35)  
-💼 [LinkedIn](https://linkedin.com/in/YourLinkedInProfile)  
+💼 [LinkedIn](https://linkedin.com/in/YourLinkedInProfile)
 
 ---
 
-⭐ *If you found this dashboard interesting, please give it a star on GitHub!* ⭐*
+⭐ *If you like this dashboard, please give it a star on GitHub!* ⭐
